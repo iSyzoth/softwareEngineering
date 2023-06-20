@@ -1,8 +1,6 @@
 
-
-
-Public Static void Main(String[]args){
-	
-System.out.println("Hello, this is my second Java file");
-
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("This is my second Java code."); 
+    }
 }
